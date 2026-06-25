@@ -6,8 +6,8 @@ public class PersonalInfo {
         String studentId = "E253051";
         int age = 22;
         String email = "e253051@ugrad.iiuc.ac.bd";
-        String phone = "+8801522109927";
-        String address = "Navy Hospital Gate, CEPZ, Chattogram";
+        String phone = "+880xxxxxxxxxx";
+        String address = "-----------, --------, Chattogram";
 
         // Using println to display the information
         System.out.println("Personal Information:");
